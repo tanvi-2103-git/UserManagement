@@ -5,3 +5,6 @@ table,tr,td,th{
 h4{
     text-shadow: 10px 10px 5px;
 }
+body{
+    background-color: aquamarine;
+}
